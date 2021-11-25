@@ -1,7 +1,11 @@
 import Foundation
 import RealmSwift
 
+
+
+/// Модель данных(Realm)
+@objcMembers
 class ToDoListItem: Object {
-    @objc dynamic var name = ""
-    @objc dynamic var done = false
+     dynamic var name = ""
+     dynamic var done = false
 }
