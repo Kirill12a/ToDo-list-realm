@@ -1,9 +1,4 @@
-//
-//  AppDelegate.swift
-//  ToDo-list-realm
-//
-//  Created by Kirill Drozdov on 25.11.2021.
-//
+
 
 import UIKit
 
