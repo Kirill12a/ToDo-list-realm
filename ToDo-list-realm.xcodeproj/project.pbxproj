@@ -14,6 +14,7 @@
 		D27F0FF1274FFD7000D6646A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D27F0FEF274FFD7000D6646A /* Main.storyboard */; };
 		D27F0FF3274FFD7200D6646A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D27F0FF2274FFD7200D6646A /* Assets.xcassets */; };
 		D27F0FF6274FFD7200D6646A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D27F0FF4274FFD7200D6646A /* LaunchScreen.storyboard */; };
+		D2CFF6752751492A0017EB2C /* DMManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2CFF6742751492A0017EB2C /* DMManager.swift */; };
 		D2D800C9275007AA00CFECE0 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2D800C8275007AA00CFECE0 /* UserModel.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,6 +30,7 @@
 		D27F0FF2274FFD7200D6646A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D27F0FF5274FFD7200D6646A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D27F0FF7274FFD7200D6646A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2CFF6742751492A0017EB2C /* DMManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DMManager.swift; sourceTree = "<group>"; };
 		D2D800C8275007AA00CFECE0 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -77,6 +79,7 @@
 				D27F0FE9274FFD7000D6646A /* AppDelegate.swift */,
 				D27F0FEB274FFD7000D6646A /* SceneDelegate.swift */,
 				D27F0FED274FFD7000D6646A /* MainViewController.swift */,
+				D2CFF6742751492A0017EB2C /* DMManager.swift */,
 				D2D800C8275007AA00CFECE0 /* UserModel.swift */,
 				D27F0FEF274FFD7000D6646A /* Main.storyboard */,
 				D27F0FF2274FFD7200D6646A /* Assets.xcassets */,
@@ -211,6 +214,7 @@
 			files = (
 				D27F0FEE274FFD7000D6646A /* MainViewController.swift in Sources */,
 				D27F0FEA274FFD7000D6646A /* AppDelegate.swift in Sources */,
+				D2CFF6752751492A0017EB2C /* DMManager.swift in Sources */,
 				D2D800C9275007AA00CFECE0 /* UserModel.swift in Sources */,
 				D27F0FEC274FFD7000D6646A /* SceneDelegate.swift in Sources */,
 			);
